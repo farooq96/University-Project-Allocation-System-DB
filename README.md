@@ -1,5 +1,5 @@
 # University-Project-Allocation-System-DB
-A Database designed for supporting the Project Allocation system to Final year University Students
+
 In, Miskatonic University, Philipp Howards took over the charge as the new Dean the school of Cthulhu Studies (CS) and he wanted to supplant the current system of assigning Final year Projects to the student with a newer and more efficient
 system. A system that would keep satisfaction of to the students and the
 Supervisors at the forefront. The goal was to ensure that we allow students to
